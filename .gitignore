@@ -2,3 +2,9 @@
 mlruns/
 mlflow/
 /other
+
+# MLflow artifacts
+mlruns/
+mlartifacts/
+.mlfartifacts/
+
