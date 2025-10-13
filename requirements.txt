@@ -1,5 +1,0 @@
-scikit-learn
-mlflow
-pickle
-seaborn
-dotenv
